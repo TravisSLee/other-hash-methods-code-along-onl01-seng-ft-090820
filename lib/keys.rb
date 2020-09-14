@@ -10,10 +10,5 @@ require 'pry'
 
 def get_the_keys(groceries)
   #code your solution here!
-  #aisle = []
-  #groceries.each do |category|
-   # aisle.push(category)
-  #end
-  #aisle
   groceries.keys 
 end
