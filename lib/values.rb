@@ -16,4 +16,5 @@ def get_the_values(groceries)
       grocery_list.push(item)
     end
   end
+  grocery_list
 end
