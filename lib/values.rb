@@ -11,5 +11,6 @@ require 'pry'
 def get_the_values(groceries)
   #code your solution here!
   array = []
-  groceries.each do |
+  groceries.each do |catergory, item|
+    
 end
