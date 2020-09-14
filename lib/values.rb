@@ -12,5 +12,5 @@ def get_the_values(groceries)
   #code your solution here!
   array = []
   groceries.each do |catergory, item|
-    
+    catergory.each do 
 end
